@@ -1,0 +1,6 @@
+apple,ggg
+amazon,bcbd
+tesla,gnalkns
+google,1234
+kakao,5968
+naver,69841
